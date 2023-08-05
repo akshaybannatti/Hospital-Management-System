@@ -82,3 +82,7 @@ doctor9 = hospital.add_doctor("Dr. J. Robert Oppenheimer", "Radiologist", "99999
 hospital.schedule_appointment(patient1, doctor1, "2019-08-10 10:00 AM")
 hospital.schedule_appointment(patient2, doctor2, "2019-08-12 3:00 PM")
 hospital.schedule_appoitment(patient3, doctor3, "2019-8-01 4:00 PM")
+hospital.schedule_appoitment(patient4, doctor4, "2019-08-05 1:00 PM")
+hospital.schedule_appoitment(patient5, doctor5, "2019-08-04 12:00 PM")
+hospital.schedule_appoitment(patient6, doctor6, "2019-08-03 01:00 PM")
+hospital.schedule_appoitment(patient7, doctor7, "2019-08-02 02:00 PM")
